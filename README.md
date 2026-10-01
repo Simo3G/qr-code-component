@@ -24,8 +24,7 @@ Successivamente ho centrato la card nello schermo della pagina web usando la ste
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://simo3g.github.io/qr-code-component/
 
 ## My process
 
