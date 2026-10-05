@@ -18,7 +18,7 @@
     p{
         font-size: 15px;
         font-weight: 400;
-        padding: 0 5px 0 5px;
+        padding: 0 12px 0 12px;
         margin: 0 0 15px 0;
         color: var(--Slate500);
     }
@@ -26,6 +26,7 @@
     h1 {
         font-size: 20px;
         font-weight: 700;
+        padding: 0 10px;
     }
 
     .card-container {
@@ -36,7 +37,7 @@
     }
 
     .card {
-        max-width: 280px;
+        max-width: 300px;
         height: auto;
         padding: 15px;
         background-color: var(--White);
